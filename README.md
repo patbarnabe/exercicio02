@@ -1,2 +1,2 @@
-# exercicio02
-Exercício 02 para conclusão de curso de C++.
+# Exercício 02
+- Resposta da atividade para conclusão de curso em C++.
